@@ -144,6 +144,7 @@ The following community members contributed to this release. Thank you!
 * [ajeeshakd](https://github.com/ajeeshakd) - Ajeesh Gopalakrishnakurup
 * [ashoktelukuntla](https://github.com/ashoktelukuntla) - Ashok Telukuntla
 * [asifsmohammed](https://github.com/asifsmohammed) - Asif Sohail Mohammed
+* [asuresh8](https://github.com/asuresh8) - Adi Suresh
 * [chenqi0805](https://github.com/chenqi0805) - Qi Chen
 * [cmanning09](https://github.com/cmanning09) - Christopher Manning
 * [daixba](https://github.com/daixba) - Aiden Dai
